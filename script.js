@@ -1,0 +1,1 @@
+document.write('Manual de Prácticas de Estudio para Informática')
